@@ -1,8 +1,11 @@
 # Description
-Il s'agit d'une application de contrôle de présence dans une entreprise. En effet ce projet est un test de sélection pour un stage au sein d'une entreprise de la place (Diag Auto center - Lomé). 
+Il s'agit d'une application de contrôle de présence dans une entreprise. 
+En effet ce projet est un test de sélection pour un stage au sein d'une entreprise de la place 
+(Diag Auto center - Lomé). 
 > Sujet:
 ```
-La compagnie FIEDLER AMS souhaiterait se doter d’un système de pointage pour contrôler les heures de présence effectives de ses employés.
+La compagnie FIEDLER AMS souhaiterait se doter d’un système de pointage pour contrôler
+les heures de présence effectives de ses employés.
 1. Le système fonctionnera avec une tablette et sera connecté à une base de données.
 2. Les employés cliqueront sur leur nom sur la tablette à leur arrivée puis à leur départ
 du lieu de travail.
@@ -12,6 +15,8 @@ savoir le nombre total d’heures de présence de n’importe quel employé au c
 mois.
 5. Votre tâche est de créer un prototype dudit système incluant une interface web.
 ```
+# Rendu
+![Rendu Final](screenshot.png)
 
 Ce project a été bootstrappé avec with [Create React App](https://github.com/facebook/create-react-app).
 
